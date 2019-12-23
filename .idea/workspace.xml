@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="611b438d-9f93-4b45-947d-6c30cf1157ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/components/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/jquery/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/bootstrap/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/bootstrap/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/jquery-confirm/jquery-confirm.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/jquery-confirm/jquery-confirm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,12 +41,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/components/bootstrap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/components/jquery-confirm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\test\smg\components\bootstrap" />
       <recent name="C:\xampp\htdocs\test\smg\components\jquery-confirm" />
+      <recent name="C:\xampp\htdocs\test\smg\components\bootstrap" />
       <recent name="C:\xampp\htdocs\test\smg\components\datatables" />
     </key>
   </component>
@@ -69,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577118582398</updated>
-      <workItem from="1577118590303" duration="1510000" />
+      <workItem from="1577118590303" duration="2803000" />
     </task>
     <servers />
   </component>
@@ -81,6 +85,14 @@
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
     <state x="725" y="364" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1920.1040@0.40.1920.1040" timestamp="1577120080242" />
+    <state x="795" y="484" key="NewPhpFileDialog" timestamp="1577120364263">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="795" y="484" key="NewPhpFileDialog/0.40.1920.1040@0.40.1920.1040" timestamp="1577120364263" />
+    <state x="461" y="203" key="SettingsEditor" timestamp="1577120875416">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="461" y="203" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1577120875416" />
     <state x="655" y="385" key="com.intellij.ide.util.TipDialog" timestamp="1577118594484">
       <screen x="0" y="40" width="1920" height="1040" />
     </state>
